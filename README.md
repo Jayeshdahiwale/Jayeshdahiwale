@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshdahiwale&label=Views&color=blue&style=plastic" alt="JayeshDahiwale" /> </p>
 
 
-<a href="https://www.linkedin.com/in/harkpun/">
-  <img align="left" alt="Jayesh's Linkdein" width="22px" src="https://www.linkedin.com/in/jayesh-dahiwale-1a5375169/" />
+<a href="https://www.linkedin.com/in/jayesh-dahiwale-1a5375169/">
+  <img align="left" alt="Jayesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/jayeshdahiwale">
   <img align="left" alt="Jayesh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
